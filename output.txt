@@ -1,0 +1,11 @@
+L -> i
+R -> L
+L -> *R
+L -> i
+R -> L
+L -> *R
+R -> L
+L -> *R
+R -> L
+S -> L = R
+acc
